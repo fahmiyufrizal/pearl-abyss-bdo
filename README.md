@@ -1,6 +1,3 @@
-# pearl-abyss-bdo
-Pearl Abyss (BDO) NetCafe Launcher
-
 # Pearl Abyss (BlackDesertOnline) NetCafe Launcher
 Designed for Diskless
 
